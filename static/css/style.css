@@ -1,3 +1,7 @@
 .notes-list{
     color: red;
 }
+
+ul.errorlist{
+    display: none;
+}
